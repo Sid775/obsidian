@@ -1,0 +1,340 @@
+{
+  "main": {
+    "id": "af3a225e06629e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "de6d9e79ee1092c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44439aac5562d270",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Software Engenering/Data types.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.3,
+                  "nodeSizeMultiplier": 1.62486979166667,
+                  "lineSizeMultiplier": 3.30206705729167,
+                  "collapse-forces": true,
+                  "centerStrength": 0,
+                  "repelStrength": 9.96419270833333,
+                  "linkStrength": 0.910196940104167,
+                  "linkDistance": 173,
+                  "scale": 0.8897801320553106,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "7a622381cf758075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engenering/AspectJ.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "096d614cb9fbd1ae"
+          },
+          {
+            "id": "10e798b00c422a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engenering/Exceptions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3121375c47b5fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engenering/Access Modifiers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25f261842451d85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engenering/Spring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d635e17a8c513e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engenering/@Lazy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cad3561756847025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engenering/Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad177aa30d59e576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engenering/Data types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "60e9230f03359c19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7828e83eaf1f7ef7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Software Engenering/AspectJ.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8813974958442035,
+                  "close": false
+                }
+              }
+            },
+            "group": "096d614cb9fbd1ae"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "624b47626ae5fc7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0027a4860b579d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c46f1ac9d55876ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83824fa19126343c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "620f26abf1b21f7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d15f0357971b8f5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bde9732486c55e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b4482c1a7caf360",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Engenering/Data types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2bd9715e48cbda8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Engenering/Data types.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a38f6d5386fe0015",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "490c91a696271587",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Engenering/Data types.md"
+              }
+            }
+          },
+          {
+            "id": "219bd4d41ad4b454",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c46f1ac9d55876ba",
+  "lastOpenFiles": [
+    "Software Engenering/Collections.md",
+    "Software Engenering/Equals and Hashcode.md",
+    "Software Engenering/Singleton.md",
+    "Software Engenering/@Lazy.md",
+    "Software Engenering/Garbage Collection.md",
+    "Software Engenering/Patterns.md",
+    "Software Engenering/Static blocks.md",
+    "Software Engenering/Exceptions.md",
+    "Software Engenering/Dispatcher Servlet.md",
+    "Software Engenering/images/Pasted image 20241031213441.png",
+    "Software Engenering/images",
+    "Software Engenering/Spring.md",
+    "Software Engenering/Access Modifiers.md",
+    "Software Engenering/Object default methods.md",
+    "Software Engenering/Lambdas.md",
+    "Software Engenering/Spring AOP.md",
+    "Software Engenering/Aspects.md",
+    "Software Engenering/AspectJ.md",
+    "Software Engenering/Java.md",
+    "Software Engenering/Object link types.md",
+    "Software Engenering/Annotations.md",
+    "Software Engenering/Multithreading.md",
+    "Software Engenering/Comparable+Comparator.md",
+    "Software Engenering/Classloader.md",
+    "Software Engenering/Closable+Autoclosable.md",
+    "Software Engenering/Data types.md",
+    "Software Engenering/Classes.md",
+    "README.md"
+  ]
+}
