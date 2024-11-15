@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Software Engenering/Data types.md",
+                "file": "Software Engenering/ACID.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engenering/Data types.md",
+                "file": "Software Engenering/ACID.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,16 +155,16 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "textFadeMultiplier": -0.9,
+                  "nodeSizeMultiplier": 1.29947916666667,
+                  "lineSizeMultiplier": 1.52916666666667,
                   "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
+                  "centerStrength": 0.135416666666667,
+                  "repelStrength": 10.4166666666667,
+                  "linkStrength": 0.791666666666667,
                   "linkDistance": 250,
-                  "scale": 0.8813974958442035,
-                  "close": false
+                  "scale": 0.4484214519305338,
+                  "close": true
                 }
               }
             },
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engenering/Data types.md",
+                "file": "Software Engenering/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engenering/Data types.md",
+                "file": "Software Engenering/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engenering/Data types.md"
+                "file": "Software Engenering/ACID.md"
               }
             }
           },
@@ -306,8 +306,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c46f1ac9d55876ba",
+  "active": "7828e83eaf1f7ef7",
   "lastOpenFiles": [
+    "Software Engenering/AspectJ.md",
     "Software Engenering/Collections.md",
     "Software Engenering/Equals and Hashcode.md",
     "Software Engenering/Singleton.md",
@@ -325,7 +326,6 @@
     "Software Engenering/Lambdas.md",
     "Software Engenering/Spring AOP.md",
     "Software Engenering/Aspects.md",
-    "Software Engenering/AspectJ.md",
     "Software Engenering/Java.md",
     "Software Engenering/Object link types.md",
     "Software Engenering/Annotations.md",
