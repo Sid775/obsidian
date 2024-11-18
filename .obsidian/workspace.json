@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Software Engenering/Select.md",
+                "file": "Software Engenering/@Lazy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -39,7 +39,9 @@
                   "scale": 0.8897801320553106,
                   "close": false
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of @Lazy"
             }
           },
           {
@@ -51,7 +53,9 @@
                 "file": "Software Engenering/AspectJ.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "AspectJ"
             },
             "group": "096d614cb9fbd1ae"
           },
@@ -64,7 +68,9 @@
                 "file": "Software Engenering/Exceptions.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Exceptions"
             }
           },
           {
@@ -76,7 +82,9 @@
                 "file": "Software Engenering/Access Modifiers.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Access Modifiers"
             }
           },
           {
@@ -88,7 +96,9 @@
                 "file": "Software Engenering/Spring.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Spring"
             }
           },
           {
@@ -100,7 +110,9 @@
                 "file": "Software Engenering/@Lazy.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "@Lazy"
             }
           },
           {
@@ -112,7 +124,9 @@
                 "file": "Software Engenering/Patterns.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Patterns"
             }
           },
           {
@@ -121,34 +135,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engenering/Databases.md",
+                "file": "Software Engenering/Locks.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Locks"
             }
           },
           {
-            "id": "23dd414c011ba1dd",
+            "id": "2556c4636c0f3326",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engenering/SQL.md",
+                "file": "Software Engenering/Joins.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Joins"
             }
           },
           {
-            "id": "b514192bc308cfe1",
+            "id": "c0e36a653d7dd732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engenering/Select.md",
+                "file": "Software Engenering/@Lazy.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "@Lazy"
             }
           }
         ],
@@ -179,18 +199,20 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "textFadeMultiplier": -0.9,
+                  "nodeSizeMultiplier": 1.29947916666667,
+                  "lineSizeMultiplier": 1.52916666666667,
                   "collapse-forces": true,
-                  "centerStrength": 0.4091796875,
-                  "repelStrength": 11.9392903645833,
-                  "linkStrength": 1,
+                  "centerStrength": 0.135416666666667,
+                  "repelStrength": 10.4166666666667,
+                  "linkStrength": 0.791666666666667,
                   "linkDistance": 250,
-                  "scale": 0.7665174358726884,
+                  "scale": 0.4484214519305343,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of AspectJ"
             },
             "group": "096d614cb9fbd1ae"
           }
@@ -214,7 +236,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -229,7 +253,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -237,7 +263,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -260,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engenering/Select.md",
+                "file": "Software Engenering/@Lazy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +296,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for @Lazy"
             }
           },
           {
@@ -277,10 +307,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engenering/Select.md",
+                "file": "Software Engenering/@Lazy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from @Lazy"
             }
           },
           {
@@ -291,7 +323,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -300,8 +334,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engenering/Select.md"
-              }
+                "file": "Software Engenering/@Lazy.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of @Lazy"
             }
           },
           {
@@ -309,7 +345,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -330,20 +368,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b514192bc308cfe1",
+  "active": "7828e83eaf1f7ef7",
   "lastOpenFiles": [
-    "Software Engenering/SQL.md",
     "Software Engenering/Select.md",
-    "Software Engenering/Databases.md",
-    "Software Engenering/Collections.md",
-    "Software Engenering/Data types.md",
-    "Software Engenering/Ковариантность-Контрвариатность-Инвариантность.md",
-    "Software Engenering/images/Pasted image 20241113105833.png",
-    "Software Engenering/images/Pasted image 20241113105755.png",
-    "Software Engenering/SOLID.md",
-    "Software Engenering/Generics.md",
-    "Software Engenering/Common.md",
+    "Software Engenering/SQL.md",
+    "Software Engenering/Locks.md",
+    "Software Engenering/Joins.md",
+    "Software Engenering/images/Pasted image 20241115132050.png",
     "Software Engenering/ACID.md",
+    "Software Engenering/AspectJ.md",
+    "Software Engenering/Collections.md",
     "Software Engenering/Equals and Hashcode.md",
     "Software Engenering/Singleton.md",
     "Software Engenering/@Lazy.md",
@@ -360,7 +394,10 @@
     "Software Engenering/Lambdas.md",
     "Software Engenering/Spring AOP.md",
     "Software Engenering/Aspects.md",
-    "Software Engenering/AspectJ.md",
-    "Software Engenering/Java.md"
+    "Software Engenering/Java.md",
+    "Software Engenering/Object link types.md",
+    "Software Engenering/Annotations.md",
+    "Software Engenering/Multithreading.md",
+    "Software Engenering/Comparable+Comparator.md"
   ]
 }
